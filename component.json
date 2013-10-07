@@ -1,0 +1,13 @@
+{
+  "name": "fira-sans-light-italic",
+  "repo": "typefaces/fira-sans-light-italic",
+  "description": "The Fira Sans Light Italic typeface.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "styles": ["index.css"],
+  "fonts": [
+    "fonts/fira-sans-light-italic.eot",
+    "fonts/fira-sans-light-italic.ttf",
+    "fonts/fira-sans-light-italic.woff"
+  ]
+}
